@@ -1,4 +1,85 @@
-👋 Hi, I am Shankar.<br>
-🔭 I’m Software Engineer<br>
-📫 How to reach me __ <a href="https://www.facebook.com/shankaravi6/">Facebook</a> | <a href="https://twitter.com/shankaravi6">X</a> | <a href="https://www.instagram.com/shankaravi6/">Instagram</a>
+<h1 align="center">👋 Hi, I'm Shankar</h1>
 
+<p align="center">
+ 🌍 India | 🚀 Polyglot Developer
+</p>
+
+<p>
+<div style="border-right: 3px solid red; padding: 8px 16px; font-style: italic; text-align: left;">
+<blockquote>
+<p align="left"><i>
+⚡ In deep build mode — engineering AI-powered developer platforms with rapid iteration and high-velocity shipping, leveraging Polyglot Developer expertise.
+</i></p>
+</blockquote>
+
+</div>
+</p>
+
+---
+
+<h2>🛠 Skills & Tools</h2>
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws" />
+</p>
+
+---
+
+<h2>🚀 Current Projects</h2>
+
+<ul>
+<li>
+<b>🧠 AI Powered CRM</b><br/>
+AI-driven CRM platform for automation and intelligent workflows.<br/>
+🔗 <a href="https://omnicrmui.vercel.app/" target="_blank">Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+<b>🧊 Hydra Glassium</b><br/>
+Modern Glassmorphism UI Component Library.<br/>
+🔗 <a href="https://hydra-glassium.vercel.app/" target="_blank">Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+<b>🧬 Rebirth</b><br/>
+AI Voice & Personality Cloning Platform.<br/>
+🔗 <a href="https://rebirth-ai.vercel.app/" target="_blank">Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+<b>📣 InfluConnect</b><br/>
+Connect with verified influencers for marketing campaigns.<br/>
+🔗 <a href="https://influenz-ui.netlify.app/" target="_blank">Live Demo</a>
+</li>
+
+<br/>
+
+<li>
+<b>🚀 Refine</b><br/>
+Space news and articles discovery platform.<br/>
+🔗 <a href="https://refine-web.netlify.app/" target="_blank">Live Demo</a>
+</li>
+</ul>
+
+---
+
+<h2>🌐 Connect</h2>
+
+<p>
+<a href="https://www.facebook.com/shankaravi6/">Facebook</a> |
+<a href="https://twitter.com/shankaravi6">X</a> |
+<a href="https://www.instagram.com/shankaravi6/">Instagram</a>
+</p>
