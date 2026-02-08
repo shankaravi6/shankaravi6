@@ -24,11 +24,12 @@
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
-<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
 
 ---
 
@@ -36,7 +37,7 @@
 
 <ul>
 <li>
-<b>🧠 AI Powered CRM</b><br/>
+<b>🧠 Omni CRM</b><br/>
 AI-driven CRM platform for automation and intelligent workflows.<br/>
 🔗 <a href="https://omnicrmui.vercel.app/" target="_blank">Live Demo</a>
 </li>
