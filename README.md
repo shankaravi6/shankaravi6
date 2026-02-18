@@ -35,6 +35,25 @@
 
 <h2>🚀 Current Projects</h2>
 
+<!-- 🔥 Featured Main Project -->
+<div align="center">
+
+<h3>🌟 SyncNet – Multi-Agent Software Development</h3>
+
+<p>
+<b>Autonomous AI agents collaborating to build, ship, and scale software at high velocity.</b><br/>
+Orchestrated intelligence • Multi-agent workflows • Developer acceleration platform
+</p>
+
+<p>
+🔗 <a href="https://your-syncnet-link.com" target="_blank"><b>🚀 View SyncNet</b></a>
+</p>
+
+</div>
+
+<hr/>
+
+<!-- Other Projects -->
 <ul>
   <li>🧠 <b>Omni CRM</b> – AI-driven CRM platform for automation and intelligent workflows. 🔗 <a href="https://omnicrmui.vercel.app/" target="_blank">Live Demo</a></li>
 
