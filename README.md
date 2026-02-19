@@ -65,13 +65,3 @@ Orchestrated intelligence • Multi-agent workflows • Developer acceleration p
 
   <li>🚀 <b>Refine</b> – Space news and articles discovery platform. 🔗 <a href="https://refine-web.netlify.app/" target="_blank">Live Demo</a></li>
 </ul>
-
----
-
-<h2>🌐 Connect</h2>
-
-<p>
-<a href="https://www.facebook.com/shankaravi6/">Facebook</a> |
-<a href="https://twitter.com/shankaravi6">X</a> |
-<a href="https://www.instagram.com/shankaravi6/">Instagram</a>
-</p>
