@@ -38,7 +38,7 @@
 <!-- 🔥 Featured Main Project -->
 <div align="center">
 
-<h3>🌟 SyncNet – Multi-Agent Software Development</h3>
+<h3>🌟 Open Roger – Multi-Agent Software Development</h3>
 
 <p>
 <b>Autonomous AI agents collaborating to build, ship, and scale software at high velocity.</b><br/>
@@ -46,7 +46,7 @@ Orchestrated intelligence • Multi-agent workflows • Developer acceleration p
 </p>
 
 <p>
-🔗 <a href="https://your-syncnet-link.com" target="_blank"><b>🚀 View SyncNet</b></a>
+🔗 <a href="https://open-roger.vercel.app/" target="_blank"><b>🚀 View OpenRoger</b></a>
 </p>
 
 </div>
