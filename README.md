@@ -2,18 +2,15 @@
    <tr>
       <td width="50%" valign="top">
          <div display="flex" justify-content:"center>
-            <h1 align="center">Hello there... I'm Shankar</h1>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&pause=999999&color=FFFFFF&background=0D111700&repeat=false&width=700&lines=Hello+there...+I'm+Shankar" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=16&pause=999999&color=8B949E&background=0D111700&repeat=false&width=700&lines=🚀+Polyglot+Developer+%7C+🤖+AI+Solutions" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=15&pause=999999&color=58A6FF&background=0D111700&repeat=false&width=400&lines=🌐+Website:+shankaravi6.vercel.app" />
              <blockquote>
                <p align="left"><i>
                ⚡ In deep build mode — engineering AI-powered developer platforms with rapid iteration and high-velocity shipping, leveraging Polyglot Developer expertise.
                </i></p>
             </blockquote>
-            <h3 align="center">🚀 Polyglot Developer | 🤖 AI Solutions</h3>
-            <h4 align="center">
-               <a href="https://shankaravi6.vercel.app/">
-                  Website
-               </a>
-            </h4><br>
+            <br>
          </div>
          <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
          <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
