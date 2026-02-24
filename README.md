@@ -5,7 +5,7 @@
             <pre>
 Hello there... I'm Shankar
 🚀 Polyglot Developer | 🤖 AI Solutions
-🌐 Website: shankaravi6.vercel.app
+🌐 Website: <a href="shankaravi6.vercel.app" target="_blank">shankaravi6.vercel.app</a>
 </pre>
             <blockquote>
                <p align="left"><i>
