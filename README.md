@@ -44,6 +44,9 @@ Hello there... I'm Shankar
          <a href="https://refine-web.vercel.app/">
          <img src="https://img.shields.io/badge/Refine-244f79?style=for-the-badge&logo=starwars&logoColor=white">
          </a>
+         <a href="https://promptrix.netlify.app/">
+         <img src="https://img.shields.io/badge/Promptrix-244f79?style=for-the-badge&logo=starwars&logoColor=white">
+         </a>
          <br>
       </td>
    </tr>
