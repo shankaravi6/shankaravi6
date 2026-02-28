@@ -12,7 +12,6 @@ Hello there... I'm Shankar
 </i></p>
 </blockquote>
 
-<br/>
 
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
@@ -23,47 +22,39 @@ Hello there... I'm Shankar
 <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-bb8-clipart-cartoon-star-wars-bb-vector-png-image_6800393.png" width="135" />
 
-<br/><br/>
+<br/>
 
+<!-- Open Roger Alone -->
 <a href="https://open-roger.vercel.app/">
 <img src="https://img.shields.io/badge/Open_Roger-FF2D2D?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
 <br/>
 
+<!-- Other Projects Horizontal -->
 <a href="https://omnicrmui.vercel.app/">
 <img src="https://img.shields.io/badge/Omni_CRM-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
-
-<br/>
 
 <a href="https://hydra-glassium.vercel.app/">
 <img src="https://img.shields.io/badge/Hydra_Glassium-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
-<br/>
-
 <a href="https://rebirth-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Rebirth-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
-
-<br/>
 
 <a href="https://influenz-ui.netlify.app/">
 <img src="https://img.shields.io/badge/InfluConnect-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
 
-<br/>
-
 <a href="https://refine-web.vercel.app/">
 <img src="https://img.shields.io/badge/Refine-244f79?style=for-the-badge&logo=starwars&logoColor=white">
 </a>
-
-<br/>
 
 <a href="https://promptrix.netlify.app/">
 <img src="https://img.shields.io/badge/Promptrix-244f79?style=for-the-badge&logo=starwars&logoColor=white">
