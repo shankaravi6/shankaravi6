@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- DNA side gradient (Mars Coral) -->
+  <linearGradient id="dna-orange" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#ff9b7c"/>
+    <stop offset="100%" stop-color="#e07c5c"/>
+  </linearGradient>
+
+  <!-- Soundwave side (Clean white/peach) -->
+  <linearGradient id="sound-white" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#ffbfa8"/>
+  </linearGradient>
+
+  <!-- ==================== BASE PAIRS (CONNECTORS) ==================== -->
+  <!-- Clean horizontal lines connecting the two strands -->
+  <line x1="28" y1="28" x2="72" y2="28" stroke="#e07c5c" stroke-width="1.5" stroke-dasharray="1 3" opacity="0.6"/>
+  <line x1="25" y1="36" x2="75" y2="36" stroke="#e07c5c" stroke-width="2" opacity="0.8"/>
+  <line x1="31" y1="44" x2="69" y2="44" stroke="#e07c5c" stroke-width="1.5" stroke-dasharray="1 3" opacity="0.6"/>
+
+  <line x1="31" y1="56" x2="69" y2="56" stroke="#e07c5c" stroke-width="1.5" stroke-dasharray="1 3" opacity="0.6"/>
+  <line x1="25" y1="64" x2="75" y2="64" stroke="#e07c5c" stroke-width="2" opacity="0.8"/>
+  <line x1="28" y1="72" x2="72" y2="72" stroke="#e07c5c" stroke-width="1.5" stroke-dasharray="1 3" opacity="0.6"/>
+
+  <!-- ==================== DNA STRAND (LEFT LOOP, RIGHT LOOP) ==================== -->
+  <!-- A perfectly smooth, clean S-curve DNA backbone -->
+  <path d="M 50 12 C 20 25, 20 47, 50 50 C 80 53, 80 75, 50 88" fill="none" stroke="url(#dna-orange)" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Clean DNA circular nodes at the connection points -->
+  <circle cx="28" cy="28" r="3" fill="#ffffff" stroke="#e07c5c" stroke-width="1.5"/>
+  <circle cx="25" cy="36" r="4" fill="#e07c5c"/>
+  <circle cx="31" cy="44" r="3" fill="#ffffff" stroke="#e07c5c" stroke-width="1.5"/>
+
+  <circle cx="69" cy="56" r="3" fill="#ffffff" stroke="#e07c5c" stroke-width="1.5"/>
+  <circle cx="75" cy="64" r="4" fill="#e07c5c"/>
+  <circle cx="69" cy="72" r="3" fill="#ffffff" stroke="#e07c5c" stroke-width="1.5"/>
+
+  <!-- ==================== SOUNDWAVE STRAND (RIGHT LOOP, LEFT LOOP) ==================== -->
+  <!-- Vertical audio bars tracing the opposite curves -->
+  
+  <!-- Top Right Soundwave (Y=12 to 50) -->
+  <rect x="56" y="16" width="2" height="6" rx="1" fill="url(#sound-white)" />
+  <rect x="62" y="21" width="2" height="12" rx="1" fill="url(#sound-white)" />
+  <rect x="68" y="22" width="2" height="20" rx="1" fill="url(#sound-white)" />
+  <rect x="74" y="24" width="2" height="24" rx="1" fill="url(#sound-white)" />
+  <rect x="68" y="38" width="2" height="14" rx="1" fill="url(#sound-white)" />
+  <rect x="61" y="43" width="2" height="8" rx="1" fill="url(#sound-white)" />
+  
+  <!-- Bottom Left Soundwave (Y=50 to 88) -->
+  <rect x="37" y="49" width="2" height="8" rx="1" fill="url(#sound-white)" />
+  <rect x="30" y="52" width="2" height="14" rx="1" fill="url(#sound-white)" />
+  <rect x="24" y="52" width="2" height="24" rx="1" fill="url(#sound-white)" />
+  <rect x="30" y="58" width="2" height="20" rx="1" fill="url(#sound-white)" />
+  <rect x="36" y="67" width="2" height="12" rx="1" fill="url(#sound-white)" />
+  <rect x="42" y="78" width="2" height="6" rx="1" fill="url(#sound-white)" />
+
+  <!-- ==================== CENTRAL NODES ==================== -->
+  <!-- Intersection sparks -->
+  <circle cx="50" cy="12" r="2.5" fill="#ffffff"/>
+  <circle cx="50" cy="50" r="3" fill="#ffffff"/>
+  <circle cx="50" cy="88" r="2.5" fill="#ffffff"/>
+</svg>
