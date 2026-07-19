@@ -24,7 +24,7 @@ Hello there... I'm Shankar
 
 <br/>
 
-<img src="logo.svg" width="125" />
+<img src="logo.svg" width="115" />
 
 <br/>
 
